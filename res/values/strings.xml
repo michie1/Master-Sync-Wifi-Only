@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Master Sync Wifi Only</string>
+    <string name="running_switch">App activated </string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>
